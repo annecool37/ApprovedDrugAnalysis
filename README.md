@@ -1,6 +1,6 @@
 # Approved Drug Analysis
 
-This exploratory and visualization project discovers changing trends in the active ingredients of pain relievers 
+This exploratory and visualization project discovers changing trends in the active ingredients of pain relievers.  
 See blog post at:  
 http://blog.nycdatascience.com/student-works/r-visualization/changing-trends-active-ingredients-pain-relievers/
 
